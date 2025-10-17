@@ -5,3 +5,5 @@ A Fast and Efficient Minecraft Client
 - Add Fabric Mods (Sodium, Iris, Etc)
 - Create Custom Version of OneConfig Bootstrap for RubyClient named RubyMod
 - Linux Support? (Arch Linux first then Debian)
+
+## Relese and Source Code COMING SOON
